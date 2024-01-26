@@ -125,6 +125,20 @@ def get_size(path: Path) -> str:
     size_in_kb = round(os.path.getsize(path)/1024)
     return f"~ {size_in_kb} KB"
 
+@ensure_annotations
+def write_string_to_file(string: str, file_path: Path):
+    """
+    Write a string to a text file, each string on a new line.
+
+    Args:
+        string (str): The string to write to the file.
+        file_path (str): The path to the text file.
+
+    Returns:
+        None
+    """
+    with open(file_path, 'a') as file:
+        file.write(string + '\n')
 
 
 
