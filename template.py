@@ -29,7 +29,7 @@ list_of_files = [
     "research/trials.ipynb",
     "templates/index.html"
 ]
-
+f"src/{project_name}/__init__.py",
 
 for filepath in list_of_files:
     filepath = Path(filepath)
