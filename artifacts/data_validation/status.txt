@@ -11,3 +11,27 @@ Validation status True on column pH
 Validation status True on column sulphates
 Validation status True on column alcohol
 Validation status True on column quality
+Validation status True on column fixed acidity
+Validation status True on column volatile acidity
+Validation status True on column citric acid
+Validation status True on column residual sugar
+Validation status True on column chlorides
+Validation status True on column free sulfur dioxide
+Validation status True on column total sulfur dioxide
+Validation status True on column density
+Validation status True on column pH
+Validation status True on column sulphates
+Validation status True on column alcohol
+Validation status True on column quality
+Validation status True on column fixed acidity
+Validation status True on column volatile acidity
+Validation status True on column citric acid
+Validation status True on column residual sugar
+Validation status True on column chlorides
+Validation status True on column free sulfur dioxide
+Validation status True on column total sulfur dioxide
+Validation status True on column density
+Validation status True on column pH
+Validation status True on column sulphates
+Validation status True on column alcohol
+Validation status True on column quality
