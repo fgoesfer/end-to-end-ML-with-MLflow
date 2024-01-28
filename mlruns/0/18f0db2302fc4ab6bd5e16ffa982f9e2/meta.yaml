@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/0/18f0db2302fc4ab6bd5e16ffa982f9e2/artifacts
+deleted_time: 1706467762617
+end_time: 1706466648101
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: 18f0db2302fc4ab6bd5e16ffa982f9e2
+run_name: calm-vole-534
+run_uuid: 18f0db2302fc4ab6bd5e16ffa982f9e2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1706466639614
+status: 4
+tags: []
+user_id: F0NI

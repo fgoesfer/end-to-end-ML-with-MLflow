@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/0/e8f2202af04b4f7c8104cdab0a008d1a/artifacts
+deleted_time: 1706467762581
+end_time: 1706466918517
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: e8f2202af04b4f7c8104cdab0a008d1a
+run_name: thundering-newt-435
+run_uuid: e8f2202af04b4f7c8104cdab0a008d1a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1706466908934
+status: 4
+tags: []
+user_id: F0NI

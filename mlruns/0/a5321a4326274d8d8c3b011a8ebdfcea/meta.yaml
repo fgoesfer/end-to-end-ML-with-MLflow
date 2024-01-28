@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/0/a5321a4326274d8d8c3b011a8ebdfcea/artifacts
+deleted_time: 1706467762598
+end_time: 1706466703127
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: a5321a4326274d8d8c3b011a8ebdfcea
+run_name: wise-gnu-316
+run_uuid: a5321a4326274d8d8c3b011a8ebdfcea
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1706466692007
+status: 4
+tags: []
+user_id: F0NI

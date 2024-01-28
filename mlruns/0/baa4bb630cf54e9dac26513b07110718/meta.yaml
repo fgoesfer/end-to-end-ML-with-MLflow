@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/0/baa4bb630cf54e9dac26513b07110718/artifacts
+deleted_time: 1706467762633
+end_time: 1706466292086
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: baa4bb630cf54e9dac26513b07110718
+run_name: stylish-grub-441
+run_uuid: baa4bb630cf54e9dac26513b07110718
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1706466282731
+status: 4
+tags: []
+user_id: F0NI

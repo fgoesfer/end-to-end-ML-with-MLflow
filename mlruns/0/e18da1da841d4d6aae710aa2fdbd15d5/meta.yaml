@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/0/e18da1da841d4d6aae710aa2fdbd15d5/artifacts
+deleted_time: 1706467762617
+end_time: 1706466546032
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: e18da1da841d4d6aae710aa2fdbd15d5
+run_name: ambitious-ape-34
+run_uuid: e18da1da841d4d6aae710aa2fdbd15d5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1706466536062
+status: 4
+tags: []
+user_id: F0NI
