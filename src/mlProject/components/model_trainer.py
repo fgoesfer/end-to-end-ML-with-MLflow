@@ -13,10 +13,9 @@ class ModelTrainer:
         self.config = config
 
     def trainer(self):
-        train_data = pd.read_csv(self.config.train_data_path)
+        train_data = pd.read_csv(self.config.train_data_path, index_col=0)
 
         x_train = train_data.drop([self.config.target_column], axis=1)
-
         y_train = train_data[self.config.target_column]
 
         # model
